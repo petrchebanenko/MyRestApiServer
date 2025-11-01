@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "JOb7HedBVllH3FX2xEUo7+nAh2MX2Z2BKvCxp4FthvHik/iaJ5R8rYrpjky3OuwW3vtnAZwOsvv0YY8emol7zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petr_Chebanenko\\ASMT\\SHTHAppens\\CDN_WEBAPI\\MyRestApiServer\\MyRestApiServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petr_Chebanenko\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "C:\\Users\\Petr_Chebanenko\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Petr_Chebanenko\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Petr_Chebanenko\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Petr_Chebanenko\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Petr_Chebanenko\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Petr_Chebanenko\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

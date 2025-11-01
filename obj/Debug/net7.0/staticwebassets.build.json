@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ktTYJoGbdLXr6xIkVgwQDn0uGBXM7lXH8Dw7mZIE4fk=",
+  "Source": "MyRestApiServer",
+  "BasePath": "_content/MyRestApiServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
